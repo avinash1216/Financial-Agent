@@ -1,0 +1,16 @@
+langchain
+openai
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pymupdf
+pdfplumber
+pandas
+streamlit
+alembic
+tqdm
+pydantic
+python-multipart
+unstructured
+pillow
+pytesseract
